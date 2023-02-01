@@ -1,0 +1,29 @@
+c:\users\dvela\documents\visual studio 2015\Projects\Login-\Login-\bin\Debug\Login-.exe.config
+C:\Users\dvela\documents\visual studio 2015\Projects\Login-\Login-\bin\Debug\Login-.exe
+C:\Users\dvela\documents\visual studio 2015\Projects\Login-\Login-\bin\Debug\Login-.pdb
+C:\Users\dvela\documents\visual studio 2015\Projects\Login-\Login-\bin\Debug\Login-.xml
+C:\Users\dvela\documents\visual studio 2015\Projects\Login-\Login-\bin\Debug\Guna.UI.dll
+C:\Users\dvela\documents\visual studio 2015\Projects\Login-\Login-\obj\Debug\Login-.vbprojResolveAssemblyReference.cache
+C:\Users\dvela\documents\visual studio 2015\Projects\Login-\Login-\obj\Debug\Login_.Form1.resources
+C:\Users\dvela\documents\visual studio 2015\Projects\Login-\Login-\obj\Debug\Login_.Resources.resources
+C:\Users\dvela\documents\visual studio 2015\Projects\Login-\Login-\obj\Debug\Login-.vbproj.GenerateResource.Cache
+C:\Users\dvela\documents\visual studio 2015\Projects\Login-\Login-\obj\Debug\Login-.exe
+C:\Users\dvela\documents\visual studio 2015\Projects\Login-\Login-\obj\Debug\Login-.xml
+C:\Users\dvela\documents\visual studio 2015\Projects\Login-\Login-\obj\Debug\Login-.pdb
+C:\Users\dvela\documents\visual studio 2015\Projects\Login-\Login-\obj\Debug\Login_.Administrador.resources
+C:\Users\dvela\documents\visual studio 2015\Projects\Login-\Login-\obj\Debug\Login_.Secretaria.resources
+C:\Users\dvela\documents\visual studio 2015\Projects\Login-\Login-\obj\Debug\Login_.Cliente.resources
+D:\Compu\Login-\Login-\bin\Debug\Login-.exe.config
+D:\Compu\Login-\Login-\obj\Debug\Login-.exe
+D:\Compu\Login-\Login-\obj\Debug\Login-.xml
+D:\Compu\Login-\Login-\obj\Debug\Login-.pdb
+D:\Compu\Login-\Login-\bin\Debug\Login-.exe
+D:\Compu\Login-\Login-\bin\Debug\Login-.pdb
+D:\Compu\Login-\Login-\bin\Debug\Login-.xml
+D:\Compu\Login-\Login-\obj\Debug\Login-.vbprojResolveAssemblyReference.cache
+D:\Compu\Login-\Login-\obj\Debug\Login_.Administrador.resources
+D:\Compu\Login-\Login-\obj\Debug\Login_.Cliente.resources
+D:\Compu\Login-\Login-\obj\Debug\Login_.Form1.resources
+D:\Compu\Login-\Login-\obj\Debug\Login_.Resources.resources
+D:\Compu\Login-\Login-\obj\Debug\Login_.Secretaria.resources
+D:\Compu\Login-\Login-\obj\Debug\Login-.vbproj.GenerateResource.Cache
